@@ -20,4 +20,4 @@ requests==2.32.2
 telebot==0.0.5
 urllib3==2.2.1
 Werkzeug==3.0.3
-# aliexpress-api==1.4.0 ← retiré car introuvable
+pypi-aliexpress==0.1.0  # Remplacer l'ancien paquet
